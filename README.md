@@ -8,6 +8,7 @@ React, Redux, HTML, CSS
 
 - You can enter text below the image
 - You can leave a comment
+- You can like it and you can take it away
 - And you can delete and edit comments
 
 Dependencies
