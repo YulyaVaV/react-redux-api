@@ -1,7 +1,7 @@
 import { useSelector } from 'react-redux';
-import Loader from "react-loader-spinner";
+import Loader from 'react-spinners/BarLoader';
 
-const Spin = (props) => {
+const Spin = () => {
 const spinner = useSelector(state => state.appReducer.loading);
 
   return (

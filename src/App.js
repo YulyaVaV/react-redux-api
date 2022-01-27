@@ -1,9 +1,11 @@
 import './App.css';
+import surfing from './images/surf.jpg'
 import Likes from './Likes';
 import Title from './Title';
 import Comments from './Comments';
 import Spin from './Spin';
 import { useSelector } from 'react-redux';
+
 
 
 function App() {
@@ -20,7 +22,7 @@ function App() {
             </div>
           )}
           <div className="card-image">
-            <img src="./sea.jpg" alt="surfing"/>
+            <img src={surfing} alt=""/>
             <Title />
             <Likes />
           </div>
