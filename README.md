@@ -6,6 +6,10 @@
 React, Redux, HTML, CSS
 -----------------------------------
 
+- You can enter text below the image
+- You can leave a comment
+- And you can delete and edit comments
+
 Dependencies
 -----------------------------------
 
